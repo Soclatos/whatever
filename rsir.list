@@ -1,0 +1,10 @@
+DOMAIN,api.openai.com
+DOMAIN,chat.openai.com
+DOMAIN,openai.com
+DOMAIN,civitai.com
+DOMAIN,huggingface.com
+DOMAIN,bard.google.com
+DOMAIN,extensions-manager.com
+DOMAIN,perplexity.ai
+DOMAIN-KEYWORD,bard
+# DOMAIN-SUFFIX,21vbc.com
