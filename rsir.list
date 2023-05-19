@@ -1,5 +1,6 @@
 DOMAIN,api.openai.com
 DOMAIN,chat.openai.com
+DOMAIN,ios.chat.openai.com
 DOMAIN,openai.com
 DOMAIN,civitai.com
 DOMAIN,huggingface.com
